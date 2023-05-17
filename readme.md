@@ -27,24 +27,7 @@ cd nome-do-repositorio
 
 3. Abra o arquivo `index.html` em seu navegador web preferido.
 
-## Estrutura do Projeto
 
-O projeto está organizado da seguinte maneira:
-
-```
-/
-├── index.html
-├── styles/
-│   └── style.css
-├── img/
-│   └── logo.png
-└── README.md
-```
-
-- O arquivo `index.html` contém a estrutura HTML da página.
-- O diretório `styles` contém o arquivo `style.css`, responsável pelos estilos aplicados à página.
-- O diretório `img` contém imagens utilizadas na página, como o arquivo `logo.png`.
-- O arquivo `README.md` é o que você está lendo agora e fornece informações sobre o projeto.
 
 ## Contribuindo
 
